@@ -1,5 +1,11 @@
 # master
 
+# Version 6.0.1 (2022-05-26)
+
+## Bug fixes
+
+  * [#832](https://github.com/toptal/chewy/issues/832): Fix "cannot load such file -- `i18n/core_ext/hash`" ([@chrisandreae][])
+
 # Version 6.0.0 (2021-02-11)
 
 ## Breaking changes
